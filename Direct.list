@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,m.6umkq9b.com
+DOMAIN-SUFFIX,bing.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
